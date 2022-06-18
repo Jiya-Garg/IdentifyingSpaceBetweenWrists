@@ -1,0 +1,28 @@
+.heading {
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 20px 20px 10px rgb(60, 122, 237);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.note {
+    font-size: 30px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-shadow: 5px 5px 5px rgb(138, 80, 80);
+    line-height: 3;
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border: 3px solid rgb(38, 30, 30);
+    border-radius: 30px;
+}
